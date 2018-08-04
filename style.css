@@ -1,0 +1,22 @@
+
+.header{
+    margin: 20px auto;
+}
+
+.taskList{
+    width: 50%;
+    margin: 20px auto;
+}
+
+#addForm{
+    width: 50%;
+    margin: 20px auto;
+}
+
+#addForm > div{
+    margin: 0 auto;
+}
+
+.submitBtn{
+    margin-left: 10px;
+}
